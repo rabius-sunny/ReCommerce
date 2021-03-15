@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReCommerce/static/css/main.a48b18bd.chunk.css",
+    "main.js": "/ReCommerce/static/js/main.f4a262da.chunk.js",
+    "main.js.map": "/ReCommerce/static/js/main.f4a262da.chunk.js.map",
+    "runtime-main.js": "/ReCommerce/static/js/runtime-main.506aec82.js",
+    "runtime-main.js.map": "/ReCommerce/static/js/runtime-main.506aec82.js.map",
+    "static/js/2.ef6e2f8f.chunk.js": "/ReCommerce/static/js/2.ef6e2f8f.chunk.js",
+    "static/js/2.ef6e2f8f.chunk.js.map": "/ReCommerce/static/js/2.ef6e2f8f.chunk.js.map",
+    "static/js/3.ac83987c.chunk.js": "/ReCommerce/static/js/3.ac83987c.chunk.js",
+    "static/js/3.ac83987c.chunk.js.map": "/ReCommerce/static/js/3.ac83987c.chunk.js.map",
+    "index.html": "/ReCommerce/index.html",
+    "static/css/main.a48b18bd.chunk.css.map": "/ReCommerce/static/css/main.a48b18bd.chunk.css.map",
+    "static/js/2.ef6e2f8f.chunk.js.LICENSE.txt": "/ReCommerce/static/js/2.ef6e2f8f.chunk.js.LICENSE.txt",
+    "static/media/giphy.46a86830.gif": "/ReCommerce/static/media/giphy.46a86830.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.506aec82.js",
+    "static/js/2.ef6e2f8f.chunk.js",
+    "static/css/main.a48b18bd.chunk.css",
+    "static/js/main.f4a262da.chunk.js"
+  ]
+}
